@@ -1,0 +1,5 @@
+﻿ID,图集,下标,怪物ID,怪物数量,波数,可建炮台,背景图集,背景下标,左云图集,右云图集,路线图集,左云下标,右云下标,路线下标,初始金币
+1001,Themes/scene/stages_theme5-hd.pvr,0,1001,5,10,0/1,Themes/Theme1/BG0/BG1-hd.pvr,0,Themes/Theme1/BG1/BG-hd.pvr,Themes/Theme1/BG1/BG-hd.pvr,Themes/Theme1/BG1/BG-hd.pvr,0,2,1,200
+1002,Themes/scene/stages_theme5-hd.pvr,1,1001,7,10,0/1/2,Themes/Theme1/BG0/BG1-hd.pvr,0,Themes/Theme1/BG1/BG-hd.pvr,Themes/Theme1/BG1/BG-hd.pvr,Themes/Theme1/BG2/BG-hd.pvr,0,2,1,300
+1003,Themes/scene/stages_theme5-hd.pvr,2,1002,9,15,0/2/3,Themes/Theme1/BG0/BG1-hd.pvr,0,Themes/Theme1/BG1/BG-hd.pvr,Themes/Theme1/BG1/BG-hd.pvr,Themes/Theme1/BG8/BG-hd.pvr,0,2,0,400
+1004,Themes/scene/stages_theme5-hd.pvr,3,1002,11,15,0/1/2/3,Themes/Theme1/BG0/BG2-hd.pvr,0,Themes/Theme1/BG3/BG-hd.pvr,Themes/Theme1/BG3/BG-hd.pvr,Themes/Theme1/BG3/BG-hd.pvr,0,2,1,500

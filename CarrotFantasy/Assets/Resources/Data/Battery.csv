@@ -1,0 +1,4 @@
+﻿ID,价格,攻击范围,攻击速度,伤害,附加效果,子弹ID,图集路径,图集ID
+1,100,200,5,5,0,1,Themes/Towers/TBottle-hd.pvr,0
+2,120,200,3,4,1,2,Themes/Towers/Shit,0
+3,160,250,4,6,0,3,Themes/Towers/TFan-hd.pvr,0

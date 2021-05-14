@@ -1,0 +1,3212 @@
+fileFormatVersion: 2
+guid: fe8e06a9b0b5e974baefdeb86640b0ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2588994256991077662
+    second: stages_theme52-hd.pvr_0
+  - first:
+      213: -4034974421646060655
+    second: stages_theme52-hd.pvr_1
+  - first:
+      213: -1743684292405523425
+    second: stages_theme52-hd.pvr_2
+  - first:
+      213: 7284515274220296456
+    second: stages_theme52-hd.pvr_3
+  - first:
+      213: 4113309756783238601
+    second: stages_theme52-hd.pvr_4
+  - first:
+      213: 2019948737884562065
+    second: stages_theme52-hd.pvr_5
+  - first:
+      213: -1844900869518824040
+    second: stages_theme52-hd.pvr_6
+  - first:
+      213: 4232953877116209634
+    second: stages_theme52-hd.pvr_7
+  - first:
+      213: 5380689235393005232
+    second: stages_theme52-hd.pvr_8
+  - first:
+      213: 4825301794229710139
+    second: stages_theme52-hd.pvr_9
+  - first:
+      213: -5642267192773121945
+    second: stages_theme52-hd.pvr_10
+  - first:
+      213: -7784247849985434395
+    second: stages_theme52-hd.pvr_11
+  - first:
+      213: -4520234720188673271
+    second: stages_theme52-hd.pvr_12
+  - first:
+      213: 5736205582273443391
+    second: stages_theme52-hd.pvr_13
+  - first:
+      213: -1952197459465400051
+    second: stages_theme52-hd.pvr_14
+  - first:
+      213: -1360441509166474452
+    second: stages_theme52-hd.pvr_15
+  - first:
+      213: -6125482000668179386
+    second: stages_theme52-hd.pvr_16
+  - first:
+      213: -8185217288942323284
+    second: stages_theme52-hd.pvr_17
+  - first:
+      213: -746551688653709725
+    second: stages_theme52-hd.pvr_18
+  - first:
+      213: 1322117179839318329
+    second: stages_theme52-hd.pvr_19
+  - first:
+      213: 1416052647060267978
+    second: stages_theme52-hd.pvr_20
+  - first:
+      213: -6657030950607809799
+    second: stages_theme52-hd.pvr_21
+  - first:
+      213: 4566278018954842803
+    second: stages_theme52-hd.pvr_22
+  - first:
+      213: 2271579499718820800
+    second: stages_theme52-hd.pvr_23
+  - first:
+      213: -7893204298145589172
+    second: stages_theme52-hd.pvr_24
+  - first:
+      213: -1401299106066523076
+    second: stages_theme52-hd.pvr_25
+  - first:
+      213: 441702140380442858
+    second: stages_theme52-hd.pvr_26
+  - first:
+      213: -1326088715080826461
+    second: stages_theme52-hd.pvr_27
+  - first:
+      213: -5427351235857908151
+    second: stages_theme52-hd.pvr_28
+  - first:
+      213: 2129791686759954276
+    second: stages_theme52-hd.pvr_29
+  - first:
+      213: -8011741873020629803
+    second: stages_theme52-hd.pvr_30
+  - first:
+      213: -6777148267328668591
+    second: stages_theme52-hd.pvr_31
+  - first:
+      213: 4324664012299645470
+    second: stages_theme52-hd.pvr_32
+  - first:
+      213: -4142305893089451078
+    second: stages_theme52-hd.pvr_33
+  - first:
+      213: 371646385640744775
+    second: stages_theme52-hd.pvr_34
+  - first:
+      213: -4386604088618771092
+    second: stages_theme52-hd.pvr_35
+  - first:
+      213: -390466344027507784
+    second: stages_theme52-hd.pvr_36
+  - first:
+      213: -7832963858626017808
+    second: stages_theme52-hd.pvr_37
+  - first:
+      213: -4750940863734640363
+    second: stages_theme52-hd.pvr_38
+  - first:
+      213: -3205850757414081388
+    second: stages_theme52-hd.pvr_39
+  - first:
+      213: -3032669419232340940
+    second: stages_theme52-hd.pvr_40
+  - first:
+      213: 4249376243463144859
+    second: stages_theme52-hd.pvr_41
+  - first:
+      213: -8388798067884288266
+    second: stages_theme52-hd.pvr_42
+  - first:
+      213: 319405791154579441
+    second: stages_theme52-hd.pvr_43
+  - first:
+      213: -2739357423469263321
+    second: stages_theme52-hd.pvr_44
+  - first:
+      213: 2693130676492280646
+    second: stages_theme52-hd.pvr_45
+  - first:
+      213: 569140916880034943
+    second: stages_theme52-hd.pvr_46
+  - first:
+      213: -6475429717238878616
+    second: stages_theme52-hd.pvr_47
+  - first:
+      213: 6235450331444335866
+    second: stages_theme52-hd.pvr_48
+  - first:
+      213: 2970941419326871432
+    second: stages_theme52-hd.pvr_49
+  - first:
+      213: -8905243830752709856
+    second: stages_theme52-hd.pvr_50
+  - first:
+      213: -3348925401237825902
+    second: stages_theme52-hd.pvr_51
+  - first:
+      213: -182335182773600979
+    second: stages_theme52-hd.pvr_52
+  - first:
+      213: -6443331392525498708
+    second: stages_theme52-hd.pvr_53
+  - first:
+      213: -4958767001044225909
+    second: stages_theme52-hd.pvr_54
+  - first:
+      213: -2930103364490697156
+    second: stages_theme52-hd.pvr_55
+  - first:
+      213: 9067441988291082257
+    second: stages_theme52-hd.pvr_56
+  - first:
+      213: 1703501227669299977
+    second: stages_theme52-hd.pvr_57
+  - first:
+      213: 2461179461192436690
+    second: stages_theme52-hd.pvr_58
+  - first:
+      213: -8299604740025814802
+    second: stages_theme52-hd.pvr_59
+  - first:
+      213: 7439723468236278192
+    second: stages_theme52-hd.pvr_60
+  - first:
+      213: 1159273439136074876
+    second: stages_theme52-hd.pvr_61
+  - first:
+      213: 7047355210688585057
+    second: stages_theme52-hd.pvr_62
+  - first:
+      213: 4828934195594884064
+    second: stages_theme52-hd.pvr_63
+  - first:
+      213: 3138272420020494530
+    second: stages_theme52-hd.pvr_64
+  - first:
+      213: 1056836320237385579
+    second: stages_theme52-hd.pvr_65
+  - first:
+      213: 8325248217943858297
+    second: stages_theme52-hd.pvr_66
+  - first:
+      213: -4647142056121044838
+    second: stages_theme52-hd.pvr_67
+  - first:
+      213: 7000712431362211772
+    second: stages_theme52-hd.pvr_68
+  - first:
+      213: 4807152461399691643
+    second: stages_theme52-hd.pvr_69
+  - first:
+      213: 6139748222448279098
+    second: stages_theme52-hd.pvr_70
+  - first:
+      213: 6862388334416159854
+    second: stages_theme52-hd.pvr_71
+  - first:
+      213: -7505952511665083258
+    second: stages_theme52-hd.pvr_72
+  - first:
+      213: -6756639036481792277
+    second: stages_theme52-hd.pvr_73
+  - first:
+      213: 5884927482680757360
+    second: stages_theme52-hd.pvr_74
+  - first:
+      213: -1890922250076803960
+    second: stages_theme52-hd.pvr_75
+  - first:
+      213: 4720586599901890382
+    second: stages_theme52-hd.pvr_76
+  - first:
+      213: -153500421095468515
+    second: stages_theme52-hd.pvr_77
+  - first:
+      213: -313049734892745167
+    second: stages_theme52-hd.pvr_78
+  - first:
+      213: 6321926989916420632
+    second: stages_theme52-hd.pvr_79
+  - first:
+      213: 9218484603381351426
+    second: stages_theme52-hd.pvr_80
+  - first:
+      213: 4891818256038492755
+    second: stages_theme52-hd.pvr_81
+  - first:
+      213: -7563842282674627820
+    second: stages_theme52-hd.pvr_82
+  - first:
+      213: -2413422327919335917
+    second: stages_theme52-hd.pvr_83
+  - first:
+      213: 5927292115280475216
+    second: stages_theme52-hd.pvr_84
+  - first:
+      213: -8645528773898541492
+    second: stages_theme52-hd.pvr_85
+  - first:
+      213: 3763924411875578049
+    second: stages_theme52-hd.pvr_86
+  - first:
+      213: -9171220581739152827
+    second: stages_theme52-hd.pvr_87
+  - first:
+      213: -5083455858976801693
+    second: stages_theme52-hd.pvr_88
+  - first:
+      213: 835534407232668516
+    second: stages_theme52-hd.pvr_89
+  - first:
+      213: -951486721846015861
+    second: stages_theme52-hd.pvr_90
+  - first:
+      213: 8436647495644545695
+    second: stages_theme52-hd.pvr_91
+  - first:
+      213: 2017251377270739821
+    second: stages_theme52-hd.pvr_92
+  - first:
+      213: 4139646570317233408
+    second: stages_theme52-hd.pvr_93
+  - first:
+      213: -7554554342314263360
+    second: stages_theme52-hd.pvr_94
+  - first:
+      213: 1977264205316763180
+    second: stages_theme52-hd.pvr_95
+  - first:
+      213: -4780753448754830135
+    second: stages_theme52-hd.pvr_96
+  - first:
+      213: -8157594093300220377
+    second: stages_theme52-hd.pvr_97
+  - first:
+      213: 8678408729741979165
+    second: stages_theme52-hd.pvr_98
+  - first:
+      213: 9063268088610438673
+    second: stages_theme52-hd.pvr_99
+  - first:
+      213: 5910272236525447152
+    second: stages_theme52-hd.pvr_100
+  - first:
+      213: -7291324421651298006
+    second: stages_theme52-hd.pvr_101
+  - first:
+      213: -2647865776752272480
+    second: stages_theme52-hd.pvr_102
+  - first:
+      213: 5045477619395252367
+    second: stages_theme52-hd.pvr_103
+  - first:
+      213: -2833816378373224173
+    second: stages_theme52-hd.pvr_104
+  - first:
+      213: 3443338196216186141
+    second: stages_theme52-hd.pvr_105
+  - first:
+      213: -80463955446775558
+    second: stages_theme52-hd.pvr_106
+  - first:
+      213: -975537793561164493
+    second: stages_theme52-hd.pvr_107
+  - first:
+      213: -8647029636923785417
+    second: stages_theme52-hd.pvr_108
+  - first:
+      213: 4441058511085955477
+    second: stages_theme52-hd.pvr_109
+  - first:
+      213: -4592461915678836311
+    second: stages_theme52-hd.pvr_110
+  - first:
+      213: 345756552998815927
+    second: stages_theme52-hd.pvr_111
+  - first:
+      213: -6289408125675562550
+    second: stages_theme52-hd.pvr_112
+  - first:
+      213: -4875546353752103173
+    second: stages_theme52-hd.pvr_113
+  - first:
+      213: -4992607462018308826
+    second: stages_theme52-hd.pvr_114
+  - first:
+      213: -7845695313052478391
+    second: stages_theme52-hd.pvr_115
+  - first:
+      213: -5205042821392878175
+    second: stages_theme52-hd.pvr_116
+  - first:
+      213: 2428139474296269639
+    second: stages_theme52-hd.pvr_117
+  - first:
+      213: 7483907036693902841
+    second: stages_theme52-hd.pvr_118
+  - first:
+      213: -6167602502111585851
+    second: stages_theme52-hd.pvr_119
+  - first:
+      213: 1204933444741676020
+    second: stages_theme52-hd.pvr_120
+  - first:
+      213: -1020802709080885398
+    second: stages_theme52-hd.pvr_121
+  - first:
+      213: 2361642473913433408
+    second: stages_theme52-hd.pvr_122
+  - first:
+      213: 1596652517446115584
+    second: stages_theme52-hd.pvr_123
+  - first:
+      213: 4849236426375054857
+    second: stages_theme52-hd.pvr_124
+  - first:
+      213: -479071358111826245
+    second: stages_theme52-hd.pvr_125
+  - first:
+      213: 336540619619670256
+    second: stages_theme52-hd.pvr_126
+  - first:
+      213: -7445402582247104495
+    second: stages_theme52-hd.pvr_127
+  - first:
+      213: -5857335475878204546
+    second: stages_theme52-hd.pvr_128
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 504
+        height: 2014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15ca754f84fde320800000000000000
+      internalID: 2588994256991077662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_1
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 32
+        width: 504
+        height: 2014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193dff74424e008c0800000000000000
+      internalID: -4034974421646060655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_2
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 310
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c8dbedf503dc7e0800000000000000
+      internalID: -1743684292405523425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_3
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 646
+        width: 514
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809dec00c0cc71560800000000000000
+      internalID: 7284515274220296456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_4
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 588
+        width: 511
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd96383e69651930800000000000000
+      internalID: 4113309756783238601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_5
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 528
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ab1accac480c10800000000000000
+      internalID: 2019948737884562065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_6
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 530
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d65821f689566e0800000000000000
+      internalID: -1844900869518824040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_7
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 531
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9cf14cf197eba30800000000000000
+      internalID: 4232953877116209634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_8
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 530
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b64e5af95c0caa40800000000000000
+      internalID: 5380689235393005232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_9
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 530
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ded139a6ae6f240800000000000000
+      internalID: 4825301794229710139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_10
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 530
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768eae6d1e3a2b1b0800000000000000
+      internalID: -5642267192773121945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_11
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 530
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec150ab2dbc8f390800000000000000
+      internalID: -7784247849985434395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_12
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 530
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90354c1a876e441c0800000000000000
+      internalID: -4520234720188673271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_13
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 472
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36750ad5981b9f40800000000000000
+      internalID: 5736205582273443391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_14
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 473
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d011529f0c668e4e0800000000000000
+      internalID: -1952197459465400051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_15
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 473
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b9f64c7adbe1de0800000000000000
+      internalID: -1360441509166474452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_16
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 473
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644cf18139aedfaa0800000000000000
+      internalID: -6125482000668179386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_17
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 473
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9f43b2e34486e80800000000000000
+      internalID: -8185217288942323284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_18
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 473
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ed35fc137b3a5f0800000000000000
+      internalID: -746551688653709725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_19
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 473
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93983c7f19a195210800000000000000
+      internalID: 1322117179839318329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_20
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 473
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac367434164d6a310800000000000000
+      internalID: 1416052647060267978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_21
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 414
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f29d32fe997d93a0800000000000000
+      internalID: -6657030950607809799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_22
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 414
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b25a714aadae5f30800000000000000
+      internalID: 4566278018954842803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_23
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 414
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3ccc70585468f10800000000000000
+      internalID: 2271579499718820800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_24
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 414
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c481275c284b57290800000000000000
+      internalID: -7893204298145589172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_25
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 414
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c15de23e59d8ce0800000000000000
+      internalID: -1401299106066523076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_26
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 414
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f7e5a1cd312600800000000000000
+      internalID: 441702140380442858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_27
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 414
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a104fce659c89de0800000000000000
+      internalID: -1326088715080826461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_28
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 414
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e796b6ecc2ea4b0800000000000000
+      internalID: -5427351235857908151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_29
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 414
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46738e6414a8e8d10800000000000000
+      internalID: 2129791686759954276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_30
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 310
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc8b7ae63390d090800000000000000
+      internalID: -8011741873020629803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_31
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 357
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c78b7ce8bb2f1a0800000000000000
+      internalID: -6777148267328668591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_32
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 358
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e123902910b440c30800000000000000
+      internalID: 4324664012299645470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_33
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 357
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab36563bcb29386c0800000000000000
+      internalID: -4142305893089451078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_34
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 357
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747ac2e2b6a582500800000000000000
+      internalID: 371646385640744775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_35
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 357
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d1a9792d6af13c0800000000000000
+      internalID: -4386604088618771092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_36
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 357
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3be7bcde8c49af0800000000000000
+      internalID: -390466344027507784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_37
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 357
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f58f141fd8bb4390800000000000000
+      internalID: -7832963858626017808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_38
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 357
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511953cb474411eb0800000000000000
+      internalID: -4750940863734640363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_39
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 358
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49caa61b8b78283d0800000000000000
+      internalID: -3205850757414081388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_40
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 254
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43457712b3bc9e5d0800000000000000
+      internalID: -3032669419232340940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_41
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 253
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95ca94ed21d8fa30800000000000000
+      internalID: 4249376243463144859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_42
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 253
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6164f5a90059b80800000000000000
+      internalID: -8388798067884288266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_43
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 254
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7a8f0ffd1ce6400800000000000000
+      internalID: 319405791154579441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_44
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 253
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7260945efe8dbf9d0800000000000000
+      internalID: -2739357423469263321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_45
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 253
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643a70ad41cef5520800000000000000
+      internalID: 2693130676492280646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_46
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 253
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c46c106aef5e700800000000000000
+      internalID: 569140916880034943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_47
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 253
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ee7fffaf6a226a0800000000000000
+      internalID: -6475429717238878616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_48
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 296
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4d4542a05c88650800000000000000
+      internalID: 6235450331444335866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_49
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 298
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887197bea77ea3920800000000000000
+      internalID: 2970941419326871432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_50
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 298
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023febdfae73a6480800000000000000
+      internalID: -8905243830752709856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_51
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 300
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296dfe7471a3681d0800000000000000
+      internalID: -3348925401237825902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_52
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 242
+        width: 56
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d39b80e17387df0800000000000000
+      internalID: -182335182773600979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_53
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 298
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6056a9c30b496a0800000000000000
+      internalID: -6443331392525498708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_54
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 298
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8074da6fabee2bb0800000000000000
+      internalID: -4958767001044225909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_55
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 298
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36ea5ca38e2657d0800000000000000
+      internalID: -2930103364490697156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_56
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 241
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1183d8d627606dd70800000000000000
+      internalID: 9067441988291082257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_57
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 194
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903abad475d04a710800000000000000
+      internalID: 1703501227669299977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_58
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 194
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbccd81eadd72220800000000000000
+      internalID: 2461179461192436690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_59
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 194
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0fc9e4671e1dc80800000000000000
+      internalID: -8299604740025814802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_60
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 194
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b94c57b3153f3760800000000000000
+      internalID: 7439723468236278192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_61
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 194
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c40410d01961010800000000000000
+      internalID: 1159273439136074876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_62
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 194
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d5713c93c3dc160800000000000000
+      internalID: 7047355210688585057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_63
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 194
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e37b2ce012d30340800000000000000
+      internalID: 4828934195594884064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_64
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 194
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c02ab383226d8b20800000000000000
+      internalID: 3138272420020494530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_65
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 242
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67fa7da803aaae00800000000000000
+      internalID: 1056836320237385579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_66
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 241
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c5f792529398370800000000000000
+      internalID: 8325248217943858297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_67
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 241
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90702cebe8028fb0800000000000000
+      internalID: -4647142056121044838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_68
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 241
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf710e6dd6872160800000000000000
+      internalID: 7000712431362211772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_69
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 241
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b719fdab1bf66b240800000000000000
+      internalID: 4807152461399691643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_70
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 242
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e9d518a74c43550800000000000000
+      internalID: 6139748222448279098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_71
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 241
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64e8a7e4d91c3f50800000000000000
+      internalID: 6862388334416159854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_72
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 137
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c604975ff75d790800000000000000
+      internalID: -7505952511665083258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_73
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 137
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be617f238989b32a0800000000000000
+      internalID: -6756639036481792277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_74
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 138
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cce16ad567ba150800000000000000
+      internalID: 5884927482680757360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_75
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 137
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c2a4a6b3812c5e0800000000000000
+      internalID: -1890922250076803960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_76
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 138
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e470f9a7084e28140800000000000000
+      internalID: 4720586599901890382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_77
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 136
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d125bb72e28aeddf0800000000000000
+      internalID: -153500421095468515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_78
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 137
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e00babce2d7abf0800000000000000
+      internalID: -313049734892745167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_79
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 138
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a3ce13a1ffbb750800000000000000
+      internalID: 6321926989916420632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_80
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 182
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20404f7b7e2aeef70800000000000000
+      internalID: 9218484603381351426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_81
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 185
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35af1f039ca33e340800000000000000
+      internalID: 4891818256038492755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_82
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 182
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b5914d485d70790800000000000000
+      internalID: -7563842282674627820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_83
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 182
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3162f5bfd2dc18ed0800000000000000
+      internalID: -2413422327919335917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_84
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 182
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054344356c8f14250800000000000000
+      internalID: 5927292115280475216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_85
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 183
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46eb58d269e40880800000000000000
+      internalID: -8645528773898541492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_86
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 182
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0d34b7f452c3430800000000000000
+      internalID: 3763924411875578049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_87
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 182
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54abfacd87749b080800000000000000
+      internalID: -9171220581739152827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_88
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 182
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c3f4e54dfe379b0800000000000000
+      internalID: -5083455858976801693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_89
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 78
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46348b4dd1a689b00800000000000000
+      internalID: 835534407232668516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_90
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 78
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880edf1ed3abc2f0800000000000000
+      internalID: -951486721846015861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_91
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 78
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920511b23ef41570800000000000000
+      internalID: 8436647495644545695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_92
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 78
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63d3e49077befb10800000000000000
+      internalID: 2017251377270739821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_93
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 78
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d3c677f9af27930800000000000000
+      internalID: 4139646570317233408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_94
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 78
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc39f5f9d4d82790800000000000000
+      internalID: -7554554342314263360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_95
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 20
+        width: 56
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e20099157a07b10800000000000000
+      internalID: 1977264205316763180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_96
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 78
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4ae30611a57adb0800000000000000
+      internalID: -4780753448754830135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_97
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 125
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ef30794676ace80800000000000000
+      internalID: -8157594093300220377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_98
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 126
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e6bef62c6ef6870800000000000000
+      internalID: 8678408729741979165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_99
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 126
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e32cdae4237cd70800000000000000
+      internalID: 9063268088610438673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_100
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 125
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7e3fff841850250800000000000000
+      internalID: 5910272236525447152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_101
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 125
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a290851d11300da90800000000000000
+      internalID: -7291324421651298006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_102
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 125
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab54c3ea14e04bd0800000000000000
+      internalID: -2647865776752272480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_103
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 125
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80dc3aa923250640800000000000000
+      internalID: 5045477619395252367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_104
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 125
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3194160a4034ca8d0800000000000000
+      internalID: -2833816378373224173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_105
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 125
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15000b88d139cf20800000000000000
+      internalID: 3443338196216186141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_106
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 22
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af04f56757222eef0800000000000000
+      internalID: -80463955446775558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_107
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 20
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33581dd9b813672f0800000000000000
+      internalID: -975537793561164493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_108
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 20
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ff1e0fb549ff780800000000000000
+      internalID: -8647029636923785417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_109
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 20
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e004af2fc1ad30800000000000000
+      internalID: 4441058511085955477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_110
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 20
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9f377383c4440c0800000000000000
+      internalID: -4592461915678836311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_111
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 22
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b80248c0cf5cc400800000000000000
+      internalID: 345756552998815927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_112
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 21
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac917a5e1a887b8a0800000000000000
+      internalID: -6289408125675562550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_113
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 66
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a7aa4c64965cb0800000000000000
+      internalID: -4875546353752103173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_114
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 68
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6252f6b17f1b6bab0800000000000000
+      internalID: -4992607462018308826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_115
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 66
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9445f895ead7e1390800000000000000
+      internalID: -7845695313052478391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_116
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 8
+        width: 52
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a53e26a129f3c7b0800000000000000
+      internalID: -5205042821392878175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_117
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 66
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b688eacfb72b120800000000000000
+      internalID: 2428139474296269639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_118
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 68
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5bf266ccd2cd760800000000000000
+      internalID: 7483907036693902841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_119
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 66
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c914d1a336486aa0800000000000000
+      internalID: -6167602502111585851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_120
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 66
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbb0df7598c8b010800000000000000
+      internalID: 1204933444741676020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_121
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 66
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a673a73385165d1f0800000000000000
+      internalID: -1020802709080885398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_122
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 10
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04db518415d36c020800000000000000
+      internalID: 2361642473913433408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_123
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 8
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001eb145103782610800000000000000
+      internalID: 1596652517446115584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_124
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 8
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90648f166d2fb4340800000000000000
+      internalID: 4849236426375054857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_125
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 9
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe3ea5532ff959f0800000000000000
+      internalID: -479071358111826245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_126
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 8
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f89be419e1aba400800000000000000
+      internalID: 336540619619670256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_127
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 10
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110a2638ccd9ca890800000000000000
+      internalID: -7445402582247104495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stages_theme52-hd.pvr_128
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 8
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b6cfd0b6096bea0800000000000000
+      internalID: -5857335475878204546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1b6a78e23a0b20b4f91d08f619184b71
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
